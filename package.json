@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Uses HTML, CSS and JavaScript to generate linear-gradient and visualise linear-gradient backgrounds.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anneKsiy/Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anneKsiy/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/anneKsiy/Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
